@@ -2,4 +2,8 @@
 title: "About Me"
 ---
 
-Why I am awesome. 
+- __Name:__ Julian
+- __Ocupation:__ "testando isso"
+- __Hobbies:__ Testar novas ferramentas e tomar breja
+
+![](cerveja-artesanal-2.jpg)
