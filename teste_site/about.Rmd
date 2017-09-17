@@ -6,7 +6,7 @@ Qual produto você quer buscar?
 
 
 
-```{r}
+```{r,echo=FALSE}
 
 a <- 1+1
 
