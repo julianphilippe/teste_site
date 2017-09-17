@@ -2,8 +2,13 @@
 title: "Submarino"
 ---
 
-- __Name:__ Julian
-- __Ocupation:__ "testando isso"
-- __Hobbies:__ Testar novas ferramentas e tomar breja
+Qual produto você quer buscar?
 
-![](cerveja-artesanal-2.jpg)
+'''{r}
+
+a <- 1+1
+
+print(a)
+
+'''
+
