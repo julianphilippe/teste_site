@@ -4,11 +4,13 @@ title: "Submarino"
 
 Qual produto você quer buscar?
 
-'''{r}
+
+
+```{r}
 
 a <- 1+1
 
 print(a)
 
-'''
+```
 
